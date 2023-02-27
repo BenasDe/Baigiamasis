@@ -1,0 +1,17 @@
+{
+  "name": "baigiamasis",
+  "version": "1.0.0",
+  "description": "baigiamasis",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Benas Denisovas",
+  "license": "ISC",
+  "dependencies": {
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {}
+}
